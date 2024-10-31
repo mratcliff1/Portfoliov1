@@ -1,6 +1,10 @@
-﻿.nameplate {
+body {
+    background-color: hex #2E3944;
+}
+
+.nameplate {
     width: 80%;
-    background-color: burlywood;
+    background-color: hex #748D92;
     margin: auto;
     max-width: 500px;
     pading: 20px;
