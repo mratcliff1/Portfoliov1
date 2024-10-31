@@ -1,12 +1,12 @@
 body {
 /* this is a gray color*/
-    background-color: hex #2E3944;
+    background-color: rgb(46, 57, 68);
 }
 
 .nameplate {
     width: 80%;
 /* basically a muted mint green*/
-    background-color: hex #748D92;
+    background-color: rgb(116 141 146);
     margin: auto;
     max-width: 500px;
     pading: 20px;
